@@ -1,0 +1,13 @@
+{
+    "blog": {
+        "projectDir": "/Users/huobingnan/MyBlog/GithubPageBlog",
+        "hugoBuildDir": "/Users/huobingnan/MyBlog/GithubPageBlog/github",
+        "githubPageDir": "/Users/huobingnan/MyBlog/GithubPageBlog/github/public",
+        "postsDir": "/Users/huobingnan/MyBlog/GithubPageBlog/github/content/posts"
+    },
+
+    "src": {
+        "baseDir": "/Users/huobingnan/Documents/MananOB/mananob",
+        "exclude": [".obsidian", ".DS_Store"]
+    }
+}
